@@ -8,8 +8,11 @@ Basic feature list:
 遊戲宣傳連結：
 https://www.youtube.com/watch?v=6PX-_QcF_0g&t=166s
 
-<img src="1_company.png" height="400" width="240">
-<img src="2_roleList.png" height="400" width="240">
-<img src="3_roleMembers.png" height="400" width="240">
-<img src="4_addRole.png" height="400" width="240">
-<img src="5_deleteRole.png" height="400" width="240">
+<img src="聲音資料編輯工具.png" height="600" width="400">
+<img src="怪物物件聲音編輯工具.png" height="600" width="400">
+<img src="場景聲音編輯工具.png" height="600" width="400">
+<img src="遊戲流程示意圖.png" height="600" width="400">
+<img src="動畫事件管理工具.png" height="600" width="400">
+<img src="體感參數設定工具.png" height="600" width="400">
+<img src="系統設定.png" height="600" width="400">
+
