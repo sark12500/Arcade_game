@@ -1,2 +1,2 @@
-# Arcade_game
+# Game_Project
 Using Unity and C#
