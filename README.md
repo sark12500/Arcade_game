@@ -8,7 +8,7 @@ Basic feature list:
 遊戲宣傳連結：
 https://www.youtube.com/watch?v=6PX-_QcF_0g&t=166s
 
-部分遊戲畫面： 
+部分遊戲畫面：
 <img src="gameplay01.jpg" height="400" width="700">
 <img src="gameplay02.png" height="400" width="700">
 <img src="gameplay03.png" height="400" width="700">
